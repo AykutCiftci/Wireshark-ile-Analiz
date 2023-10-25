@@ -1,1 +1,1 @@
-Siber saldırı sırasında Wireshark ile kayıt etmiştim, buradan indirerek inceleyebilir siniz.
+Siber saldırı sırasında Wireshark ile kayıt etmiştim, buradan indirerek inceleyebilirsiniz.
